@@ -9,6 +9,7 @@ public class ExtractInteger {
 		// TODO Auto-generated method stub
 		List<String> finalResult=extractInt("1.Hello My Name is Taarun.2.My Jersey number is 96");
 		System.out.println(finalResult.toString());
+		//https://www.geeksforgeeks.org/problems/extract-the-integers4428/1
 
 	}
 	
